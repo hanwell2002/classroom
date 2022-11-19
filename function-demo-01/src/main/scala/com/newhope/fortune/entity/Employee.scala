@@ -1,6 +1,6 @@
 package com.newhope.fortune.entity
 
-class Employee extends Person {
+class Employee extends Person { // trait
   var empId: Int = 0
   var salary: Float = 0
 
