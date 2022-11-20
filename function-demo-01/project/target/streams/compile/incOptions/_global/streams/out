@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+[debug] Created transactional ClassFileManager with tempDir = C:\newhope\classroom\function-demo-01\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: C:\newhope\classroom\function-demo-01\project\target\scala-2.12\sbt-1.0\classes.bak
+=======
 [debug] Created transactional ClassFileManager with tempDir = G:\bootcamps\classroom\function-demo-01\project\target\scala-2.12\sbt-1.0\classes.bak
 [debug] Removing the temporary directory used for backing up class files: G:\bootcamps\classroom\function-demo-01\project\target\scala-2.12\sbt-1.0\classes.bak
+>>>>>>> e3c2756b668251508d37551438c0e3b515484704
