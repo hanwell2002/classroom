@@ -10,11 +10,11 @@ IntelliJ IDEA has keyboard shortcuts for most of its commands related to editing
 
 The following table lists some of the most useful shortcuts to learn:
 
-| Shortcut           | Action                                                       |
+|  快捷键             | Action                                                       |
 | ------------------ | ------------------------------------------------------------ |
-| Double Shift       | [Search Everywhere](https://www.jetbrains.com/help/idea/searching-everywhere.html)Quickly find any file, action, symbol, tool window, or setting in IntelliJ IDEA, in your project, and in the current Git repository. |
+| Double Shift       | [Search Everywhere](https://www.jetbrains.com/help/idea/searching-everywhere.html) 快速查找任意文件, action, symbol, tool window, or setting in IntelliJ IDEA, in your project, and in the current Git repository. |
 | Ctrl+Shift+A       | [Find Action](https://www.jetbrains.com/help/idea/searching-everywhere.html#find_action)Find a command and execute it, open a tool window, or search for a setting. |
-| Alt+Enter          | [Show Context Actions](https://www.jetbrains.com/help/idea/intention-actions.html)Quick-fixes for highlighted errors and warnings, intention actions for improving and optimizing your code. |
+| Alt+Enter          | [Show Context Actions](https://www.jetbrains.com/help/idea/intention-actions.html) 快速修复高亮的错误和警告, intention actions for improving and optimizing your code. |
 | F2Shift+F2         | [Navigate between code issues](https://www.jetbrains.com/help/idea/navigating-through-the-source-code.html#navigate-errors-warnings)Jump to the next or previous highlighted error. |
 | Ctrl+E             | [View recent files](https://www.jetbrains.com/help/idea/navigating-through-the-source-code.html#recent_files)Select a recently opened file from the list. |
 | Ctrl+Shift+Enter   | [Complete Current Statement](https://www.jetbrains.com/help/idea/working-with-source-code.html#editor_statement_select)Insert any necessary trailing symbols and put the caret where you can start typing the next statement. |
