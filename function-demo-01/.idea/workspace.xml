@@ -5,12 +5,163 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19e676a2-8a76-48bc-a58a-ceb542b5b3e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/function-demo-01-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/function-demo-01-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/function-demo-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/function-demo-01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/newhope/fortune/application/ClassRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/newhope/fortune/application/ClassRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/newhope/fortune/application/FunctionRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/newhope/fortune/application/FunctionRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/libraries/sbt__com_lihaoyi_fansi_2_12_0_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/libraries/sbt__com_lihaoyi_sourcecode_2_12_0_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/libraries/sbt__org_scala_stm_scala_stm_2_12_0_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/modules/higher-order-function-demo-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/modules/higher-order-function-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/project/target/config-classes/$5c7a6639b76915151ecf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/project/target/config-classes/$5c7a6639b76915151ecf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/project/target/config-classes/$5c7a6639b76915151ecf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$10b1bb5a8229d7ce6dfb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$10b1bb5a8229d7ce6dfb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$10b1bb5a8229d7ce6dfb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$7a42eae9b83ea80cecc7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$7a42eae9b83ea80cecc7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$7a42eae9b83ea80cecc7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$9990fc235ca4cf96381e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$9990fc235ca4cf96381e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$9990fc235ca4cf96381e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$c69336ec4ae43f7895b0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$c69336ec4ae43f7895b0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$c69336ec4ae43f7895b0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$f2db4bbf9ba61411b5f1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$f2db4bbf9ba61411b5f1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/config-classes/$f2db4bbf9ba61411b5f1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/scala-2.12/sbt-1.0/sync/copy-resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/src/main/scala/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/src/main/scala/entity/Apple.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/src/main/scala/entity/Fruit.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/.history3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/bg-jobs/sbt_8b6c931c/job-1/target/5c0fe004/dca52458/higher-order-functiion-demo_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/bg-jobs/sbt_8b6c931c/job-2/target/5c0fe004/ae86dd85/higher-order-functiion-demo_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/bg-jobs/sbt_8b6c931c/job-3/target/5c0fe004/2e37b19d/higher-order-functiion-demo_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/bg-jobs/sbt_8b6c931c/job-4/target/5c0fe004/cadacf26/higher-order-functiion-demo_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/bg-jobs/sbt_8b6c931c/target/0455ae8f/9a81396e/fansi_2.12-0.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/bg-jobs/sbt_8b6c931c/target/436c9c66/fcd8160b/sourcecode_2.12-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/classes/Main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/classes/entity/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/classes/entity/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/classes/entity/Kiwi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/classes/entity/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/higher-order-function-demo_2.12-0.1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/sync/copy-resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/scala-2.12/zinc/inc_compile_2.12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/exportedProductJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/mainClass/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/packageBin/_global/streams/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/dependencyClasspathAsJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/exportedProductJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/fullClasspathAsJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/internalDependencyAsJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/internalDependencyAsJars/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higher-order-functiion-demo/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +179,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -41,9 +195,29 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "G:/bootcamps/classroom/function-demo-01"
+    "last_opened_file_path": "G:/bootcamps/classroom/higher-order-function-demo"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.newhope.fortune.application.Main" />
+      <module name="function-demo-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newhope.fortune.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

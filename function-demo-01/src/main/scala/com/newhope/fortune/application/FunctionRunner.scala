@@ -28,12 +28,3 @@ object FunctionRunner {
     printf("2*3 = %s", funres(2,3))
   }
 }
-
-
-//
-// fruitBasket.filter(fruit =>  {fruit.name == "apple" || fruit.color == "red" })
-
-
-fruitBasket.filter(fruit =>  {fruit.name == "apple"})
-fruitBasket.filter(_.name == "apple")
-
