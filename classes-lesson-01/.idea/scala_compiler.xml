@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="classes-lesson-01,classes-lesson-01_414,function-demo-01,function-demo-01_2778" />
+  </component>
+</project>
