@@ -1,8 +1,10 @@
 package com.newhope.fortune.classes
 
 class Person {
+
   var name: Option[String] = None
   var age: Option[Int] = None
+
   override def toString = s"$name, $age"
 }
 

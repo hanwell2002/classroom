@@ -24,13 +24,6 @@ object Main {
     empScott.printEmp();
 
 
-    val mary = new ManagerCompanion
-
-    mary.salary = 120
-    println("------------")
-    println("Manry's salary--->" + mary.salary)
-
-
   }
 }
 

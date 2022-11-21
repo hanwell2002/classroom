@@ -1,11 +1,16 @@
 package com.newhope.fortune.classes
 
 class Pizza {
-  def printFilename() = {
-    println(Pizza.HiddenAliasName)
+  def printProctName() = {
+    println(Pizza.alias)
   }
 }
 
 object Pizza {
-  private val HiddenAliasName  = "/tmp/PizzaHut.bar"
+
+  private val alias  = "PizzaHut"
+  def provideProduct(): Unit = {
+    alias
+   // new Pizza().printProctName()
+  }
 }

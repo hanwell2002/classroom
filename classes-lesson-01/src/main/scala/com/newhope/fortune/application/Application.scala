@@ -1,12 +1,13 @@
 package com.newhope.fortune.application
 
 import com.newhope.fortune.classes.{Lark, Person, Pizza}
+import com.newhope.fortune.entity.Employee
 
 object Application {
 
   def main(args: Array[String]): Unit = {
-    var p = new Pizza
-    p.printFilename()
+
+    println(Pizza.provideProduct())
 
     val a = new Lark
     a.shout
@@ -23,6 +24,7 @@ object Application {
     println(p3)
     println(p4)
     println("------- </Person Companion Test>-------------")
+
 
   }
 }
