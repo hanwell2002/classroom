@@ -16,6 +16,8 @@ object Main {
       apple1, orange, kiwi, apple2, orange, kiwi, apple3, orange, kiwi
     )
     // println(fruitBasket)
+    val f = fruitBasket.find(_.name=="apple").get
+    println("Apple = " + f.name + " : " + f.color)
 
     println(apple2.name)
     println(orange.name)
