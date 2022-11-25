@@ -13,9 +13,5 @@ object PatternMatchDemo extends App {
   }
   printf("match result : " + res1 + "\n")
 
-  println("ddddddddddddddddd")
-
-
   printf("new line " + res1)
-
 }
