@@ -64,4 +64,5 @@ object HighOrderFunctionDemo extends App {
 
   val donaldFamily = Seq("Donald Trump Jr. Trump", "Ivanka Trump", "Eric Trump", "Tiffany Trump", "Barron Trump")
   println(donaldFamily.flatMap(_.toUpperCase))
+
 }

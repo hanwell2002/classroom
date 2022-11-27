@@ -9,7 +9,8 @@ object PersonManager extends  App {
   val p1 =  Person(Some("Fred"))
   val p2 = Person(None)
 
-  val p3 = Person(Some("Wilma"), Some(33))
+
+  val p3 = Person.apply(Some("Wilma"), Some(33))
   val p4 = Person(Some("Wilma"), None)
 
   println(p1)
