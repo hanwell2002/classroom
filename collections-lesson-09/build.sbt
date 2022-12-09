@@ -6,9 +6,10 @@ lazy val root = (project in file("."))
   .settings(
     name := "collection-lesson-09"
   )
-
+/*
 libraryDependencies ++= Seq(
   "com.github.piotr-kalanski" %% "csv2class" % "0.3.3",
   //"au.com.bytecode" % "opencsv" % "5.7.1"
   "com.github.tototoshi" %% "scala-csv" % "1.3.10"
 )
+ */
