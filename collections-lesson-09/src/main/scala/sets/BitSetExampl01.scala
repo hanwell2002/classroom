@@ -1,6 +1,8 @@
 package sets
 
-import scala.collection.BitSet
+import scala.collection.immutable.BitSet
+
+// import scala.collection.BitSet
 
 object BitSetExampl01 extends App {
 
@@ -31,3 +33,18 @@ object BitSetExampl01 extends App {
   println(s"Add more than one elements to BitSet = $bs2")
 
 }
+/*
+import java.util.BitSet;
+
+public class Main {
+    public static int toInt(BitSet bitSet) {
+        int intValue = 0;
+        for (int bit = 0; bit < bitSet.length(); bit++) {
+            if (bitSet.get(bit)) {
+                intValue |= (1 << bit);
+            }
+        }
+        return intValue;
+    }
+}
+* */

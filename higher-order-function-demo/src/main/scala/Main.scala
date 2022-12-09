@@ -12,12 +12,37 @@ object Main {
     val orange = new Orange
     val kiwi = new Kiwi
 
+    println("apple1: " + apple1.name + "-->" + apple1.color)
+    println("apple2: " + apple2.name + "-->" + apple2.color)
+    println("apple3: " + apple3.name + "-->" + apple3.color)
+
     val fruitBasket = List(
       apple1, orange, kiwi, apple2, orange, kiwi, apple3, orange, kiwi
     )
-    // println(fruitBasket)
-    val f = fruitBasket.find(_.name=="apple").get
-    println("Apple = " + f.name + " : " + f.color)
+
+    val one = fruitBasket.find(_.name=="apple")
+   // val one = fruitBasket.find(_.name=="fruit_does_not_exists")
+   //  println(one.get.name + "-> color: " + one.get.color)
+
+    //safe way to check find result:
+    one match {
+      case Some(fruit) => println("Fruit name: " + fruit.name+ " --> " + fruit.color)
+      case None => println("Matching None, i.e. found no fruit")
+    }
+
+    try {
+     println(one.get)
+    } catch {
+      case e: Exception => println("got None")
+    }
+
+    println("#--------------------------------------#")
+    val many = fruitBasket.filter(_.name == "apple")
+    many.foreach{
+      (a <- many) => println(a.color)
+    }
+    println("#--------------------------------------#")
+
 
     println(apple2.name)
     println(orange.name)
@@ -52,4 +77,9 @@ object Main {
     println(colored)
   }
 
+ /* public boolean compare(String name) {
+    if(name.equals("apple"))
+      return true
+    else return false;
+  }*/
 }
