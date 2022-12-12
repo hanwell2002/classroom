@@ -4,5 +4,5 @@ ThisBuild / scalaVersion := "2.12.17"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "classes-lesson-01"
+    name := "errorhandling-lesson-07"
   )
