@@ -1,4 +1,6 @@
-**/classes-lesson-06/.idea
+*/.git
+**/target
 **/*/.bsp
 **/*/.idea
-*/.git
+**/*/target
+**/*/project/target
